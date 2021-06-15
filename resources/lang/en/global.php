@@ -11,7 +11,7 @@ return [
 	'permissions' => [
 		'title' => 'Permisos',
 		'fields' => [
-			'title' => 'Title',
+			'title' => 'Titulo',
 		],
 	],
 	
